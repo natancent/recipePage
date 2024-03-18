@@ -28,8 +28,8 @@ img {
     display: block;
 }
 
-h1,h2 {
-    font-family: 'Young Serif' serif;
+ h1,h2 {
+    font-family: 'Young Serif' , serif;
     font-weight: 400;
 }
 
@@ -79,6 +79,7 @@ hr {
     background-color: var(--white);
     margin: 2rem;
     border-radius: 1rem;
+    padding-left: 2.5rem;
 
 }
 
